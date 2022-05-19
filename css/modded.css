@@ -1,0 +1,12 @@
+.cont {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 90%;
+    align-items: center;
+}
+
+.flex {
+    width: 15rem;
+}
